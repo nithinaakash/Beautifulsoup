@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+  <title url="blog.scrapinghub">
+    <image class="Blog featured image"></image>
+    <div id="blog-section"></div>
+  </title>
+   <title url="MS_Dhoni">
+    <image class="Mahendra Singh Dhoni January 2016 (cropped).jpg"></image>
+     <div id="mw-parser-output"></div>
+  </title>
+  <title url="forbes.com/sites/jaysondemers">
+ <image class="blog-post-image"></image>
+     <div id="body-container"></div>
+  </title>
+  <title url="uipath">
+    <image class="blog-post-image"></image>
+     <div id="body-container"></div>
+  </title>
+
+
+</site>
